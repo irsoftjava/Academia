@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.openbookcamp.funcional;
+package com.pro.investigacion.openbookcamp.funcional;
 
 import java.util.function.Function;
 
