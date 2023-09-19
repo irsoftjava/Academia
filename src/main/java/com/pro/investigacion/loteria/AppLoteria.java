@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.loteria;
+package com.pro.investigacion.loteria;
 
 import java.util.List;
 

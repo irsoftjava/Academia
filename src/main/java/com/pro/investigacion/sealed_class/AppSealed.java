@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.sealed_class;
+package com.pro.investigacion.sealed_class;
 
 sealed class Human permits Anjali, Manish, Vartika {
     public void printName() {

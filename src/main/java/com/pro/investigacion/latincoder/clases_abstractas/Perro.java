@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.latincoder.clases_abstractas;
+package com.pro.investigacion.latincoder.clases_abstractas;
 
 public class Perro extends Animal {
 
