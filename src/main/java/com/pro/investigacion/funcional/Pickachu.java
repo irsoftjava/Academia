@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.funcional;
+package com.pro.investigacion.funcional;
 
 public class Pickachu {
 

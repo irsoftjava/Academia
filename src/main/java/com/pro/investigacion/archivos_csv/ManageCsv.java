@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.archivos_csv;
+package com.pro.investigacion.archivos_csv;
 
 import javax.swing.*;
 import java.io.BufferedReader;

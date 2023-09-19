@@ -1,4 +1,4 @@
-package com.cga.pro.coche;
+package com.pro.coche;
 
 import java.util.ArrayList;
 import java.util.Scanner;

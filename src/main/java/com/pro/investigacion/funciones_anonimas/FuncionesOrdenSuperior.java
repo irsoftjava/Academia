@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.funciones_anonimas;
+package com.pro.investigacion.funciones_anonimas;
 
 import java.util.ArrayList;
 import java.util.Arrays;

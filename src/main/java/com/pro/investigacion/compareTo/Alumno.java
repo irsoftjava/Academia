@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.compareTo;
+package com.pro.investigacion.compareTo;
 
 /**
  * @author Ivan Rodriguez Saiz

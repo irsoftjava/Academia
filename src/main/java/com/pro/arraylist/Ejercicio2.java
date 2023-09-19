@@ -1,4 +1,4 @@
-package com.cga.pro.arraylist;
+package com.pro.arraylist;
 
 // Método que recibe un ArrayList de String y lo modifica invirtiendo su contenido.
 

@@ -1,4 +1,4 @@
-package com.cga.pro.arraylist;
+package com.pro.arraylist;
 
 public class Cliente {
     private final String nombre;

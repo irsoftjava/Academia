@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.herencia_abstract;
+package com.pro.investigacion.herencia_abstract;
 
 public class Espada {
 

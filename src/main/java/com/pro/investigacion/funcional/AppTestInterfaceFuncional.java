@@ -1,6 +1,6 @@
-package com.cga.pro.investigacion.funcional;
+package com.pro.investigacion.funcional;
 
-import com.cga.pro.investigacion.funcional.inter.MyFunctionalInterface;
+import com.pro.investigacion.funcional.inter.MyFunctionalInterface;
 
 public class AppTestInterfaceFuncional {
 
