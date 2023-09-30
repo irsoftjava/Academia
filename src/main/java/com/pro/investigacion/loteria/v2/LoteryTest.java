@@ -1,7 +1,9 @@
 package com.pro.investigacion.loteria.v2;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class LoteryTest {
 
@@ -52,7 +54,14 @@ public class LoteryTest {
                 List.of(20, 10, 2022, 10, 24, 30, 34, 47, 48, 14, 7)
         );
 
-        List<Bonoloto> listBonoloto = new ArrayList<Bonoloto>();
+        List<Bonoloto> listBonoloto = new ArrayList<>();
+
+        HashMap<String, Integer> mapa = new HashMap<>();
+        mapa.put("clave1", 10);
+        mapa.put("clave2", 20);
+        mapa.put("clave3", 30);
+
+        mapa.entrySet().forEach(System.out::println);
 
         //System.out.println(bets.toString());
 
