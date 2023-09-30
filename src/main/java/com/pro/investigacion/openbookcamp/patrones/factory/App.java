@@ -1,6 +1,6 @@
 package com.pro.investigacion.openbookcamp.patrones.factory;
 
-public class Main {
+public class App {
 
     public static void main(String[] args) {
 

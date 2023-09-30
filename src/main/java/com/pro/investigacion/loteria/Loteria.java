@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.loteria;
+package com.pro.investigacion.loteria;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -13,7 +13,7 @@ public class Loteria {
         ArrayList<Integer> resp = new ArrayList<>();
 
         int vcc = 0;
-        while (vcc != 7) {
+        while (vcc != 6) {
             int v = (int) (Math.random() * 49 + 1);
             if (resp.contains(v)) continue;
             else resp.add(v);
