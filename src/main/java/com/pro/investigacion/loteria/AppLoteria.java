@@ -60,7 +60,7 @@ public class AppLoteria {
         int aciertos = 0;
         int dineroInvertido = 0;
         int dineroGanado = 0;
-        for (int i = 0; i < 30; i++) {
+        for (int i = 0; i < 324; i++) {
             // genera una combinación
             List<Integer> tiradas = loteria.generaBonoloto();
             System.out.println("Día #" + (i+1) + " Apuesta: "+ tiradas);
@@ -75,10 +75,14 @@ public class AppLoteria {
                 // si los aciertos son mayores a 3, los cuento y los imprimo
                 if (aciertos >= 3) {
                     c++;
+                    if (aciertos == 3) dineroGanado += 4;
+                    if (aciertos == 4) dineroGanado += 29;
+
                     System.out.println("\t\t\t\t" + c + " -> " + apuesta + " -> " + aciertos);
                 }
             }
 
         }
+        System.out.println("Se invirtió: " + dineroInvertido + " y se Ganó: " + dineroGanado);
     }
 }
