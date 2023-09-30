@@ -1,4 +1,4 @@
-package com.cga.pro.arraylist;
+package com.pro.arraylist;
 
 // Escribe un programa que lea números enteros y los guarde en un ArrayList hasta que
 // se lea un 0 y muestra los números leídos, su suma y su media.

@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.sealed_class;
+package com.pro.investigacion.sealed_class;
 
 public final class Men extends HumanClass {
 

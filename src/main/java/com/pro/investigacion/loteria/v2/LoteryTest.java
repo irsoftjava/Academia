@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.loteria.v2;
+package com.pro.investigacion.loteria.v2;
 
 import java.util.ArrayList;
 import java.util.Arrays;

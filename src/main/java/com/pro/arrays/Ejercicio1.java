@@ -1,4 +1,4 @@
-package com.cga.pro.arrays;
+package com.pro.arrays;
 
 import java.util.Arrays;
 

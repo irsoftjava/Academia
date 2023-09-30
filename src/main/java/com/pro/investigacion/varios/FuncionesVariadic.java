@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.varios;
+package com.pro.investigacion.varios;
 
 public class FuncionesVariadic {
 

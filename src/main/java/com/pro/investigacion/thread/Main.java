@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.thread;
+package com.pro.investigacion.thread;
 
 public class Main {
 

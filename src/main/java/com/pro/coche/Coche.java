@@ -1,4 +1,4 @@
-package com.cga.pro.coche;
+package com.pro.coche;
 
 public class Coche {
 

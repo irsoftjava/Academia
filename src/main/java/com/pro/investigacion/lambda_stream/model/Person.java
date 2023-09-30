@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.lambda_stream.model;
+package com.pro.investigacion.lambda_stream.model;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.herencia_abstract;
+package com.pro.investigacion.herencia_abstract;
 
 /**
  * Modelar un Juego en donde Heroes pelean entre sí.

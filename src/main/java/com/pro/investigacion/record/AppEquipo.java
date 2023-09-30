@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.record;
+package com.pro.investigacion.record;
 
 public class AppEquipo {
 

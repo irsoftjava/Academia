@@ -1,7 +1,7 @@
-package com.cga.pro.investigacion.varios;
+package com.pro.investigacion.varios;
 
-import com.cga.pro.investigacion.lambda_stream.model.Person;
-import com.cga.pro.investigacion.lambda_stream.model.Product;
+import com.pro.investigacion.lambda_stream.model.Person;
+import com.pro.investigacion.lambda_stream.model.Product;
 
 import java.time.LocalDate;
 import java.time.Period;

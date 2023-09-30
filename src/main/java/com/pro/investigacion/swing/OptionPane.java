@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.swing;
+package com.pro.investigacion.swing;
 
 import javax.swing.*;
 

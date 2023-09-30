@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.record;
+package com.pro.investigacion.record;
 
 import java.util.ArrayList;
 import java.util.List;

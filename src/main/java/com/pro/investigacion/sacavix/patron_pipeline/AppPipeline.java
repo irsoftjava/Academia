@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.sacavix.patron_pipeline;
+package com.pro.investigacion.sacavix.patron_pipeline;
 
 import java.util.List;
 

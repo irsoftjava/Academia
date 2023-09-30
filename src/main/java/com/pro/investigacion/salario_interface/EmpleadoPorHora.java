@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.salario_interface;
+package com.pro.investigacion.salario_interface;
 
 public class EmpleadoPorHora implements Empleado {
 

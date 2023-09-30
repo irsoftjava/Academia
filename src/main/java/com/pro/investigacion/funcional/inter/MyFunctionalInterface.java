@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.funcional.inter;
+package com.pro.investigacion.funcional.inter;
 
 /**
  * Una Interface Funcional en Java tiene la particularidad que solo tiene un método.

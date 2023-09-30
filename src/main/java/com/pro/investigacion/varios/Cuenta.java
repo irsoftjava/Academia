@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.varios;
+package com.pro.investigacion.varios;
 
 public record Cuenta(String nombre, String clave, boolean privilegiada) {
 

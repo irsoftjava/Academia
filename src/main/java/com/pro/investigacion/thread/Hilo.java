@@ -1,4 +1,4 @@
-package com.cga.pro.investigacion.thread;
+package com.pro.investigacion.thread;
 
 // La clase Hilo tiene que implementar la interfaz Runnable
 // la interfaz es más o menos así:
